@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cloudex.cc
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cnd2exp.online
@@ -240,7 +241,6 @@ DOMAIN-SUFFIX,germania.one
 DOMAIN-SUFFIX,getoutline.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfn.am
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,glpals.com
@@ -252,7 +252,6 @@ DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gordonua.com
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,gr-assets.com
@@ -776,12 +775,6 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yaoilib.me
 DOMAIN-SUFFIX,yle.fi
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,yting.com
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zannn.top
 DOMAIN-SUFFIX,zbigz.com
